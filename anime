@@ -1,0 +1,101 @@
+{"Anime" : {
+     "Name" : "Naruto" ,
+     "Rating" :  9.3,
+     "Plot" : "hasfjkasf " ,
+     "Genre" : "Adventure,Fantasy,Martial arts," ,
+     "Launch date" : "28718" ,
+     "Episodes" : " 750" ,
+     "Writer" : "sfjafa " ,
+     "streaming platform" : " fajkhsaiuf"
+ }
+ {
+    "Name" : "One piece" ,
+    "Rating" :  9.9,
+    "Plot" : "ansfsafjk " ,
+    "Genre" : "asnjfkakf " ,
+    "Launch date" : "127821 " ,
+    "Episodes" : "950" ,
+    "Writer" : "asfkjas" ,
+    "streaming platform" : "asfjkaf"
+}
+{
+    "Name" : "Attack on titan" ,
+    "Rating" :  9.5,
+    "Plot" : " " ,
+    "Genre" : " " ,
+    "Launch date" : " " ,
+    "Episodes" : " " ,
+    "Writer" : " " ,
+    "streaming platform" : " "
+}
+{
+    "Name" : "Demon slayer" ,
+    "Rating" :  9,
+    "Plot" : " " ,
+    "Genre" : " " ,
+    "Launch date" : " " ,
+    "Episodes" : " " ,
+    "Writer" : " " ,
+    "streaming platform" : " "
+}
+{
+    "Name" : "Black clover" ,
+    "Rating" :  9,
+    "Plot" : " " ,
+    "Genre" : " " ,
+    "Launch date" : " " ,
+    "Episodes" : " " ,
+    "Writer" : " " ,
+    "streaming platform" : " "
+}
+{
+    "Name" : "bleach" ,
+    "Rating" :  9,
+    "Plot" : " " ,
+    "Genre" : " " ,
+    "Launch date" : " " ,
+    "Episodes" : " " ,
+    "Writer" : " " ,
+    "streaming platform" : " "
+}
+{
+    "Name" : "Death note" ,
+    "Rating" :  9.5,
+    "Plot" : " " ,
+    "Genre" : " " ,
+    "Launch date" : " " ,
+    "Episodes" : " " ,
+    "Writer" : " " ,
+    "streaming platform" : " "
+}
+{
+    "Name" : "Dragon ball" ,
+    "Rating" : 9 ,
+    "Plot" : " " ,
+    "Genre" : " " ,
+    "Launch date" : " " ,
+    "Episodes" : " " ,
+    "Writer" : " " ,
+    "streaming platform" : " "
+}
+{
+    "Name" : "One punch man" ,
+    "Rating" :  9,
+    "Plot" : " " ,
+    "Genre" : " " ,
+    "Launch date" : " " ,
+    "Episodes" : " " ,
+    "Writer" : " " ,
+    "streaming platform" : " "
+}
+{
+    "Name" : "Tokyo Ghoul" ,
+    "Rating" :  5,
+    "Plot" : " " ,
+    "Genre" : " " ,
+    "Launch date" : " " ,
+    "Episodes" : " " ,
+    "Writer" : " " ,
+    "streaming platform" : " "
+}
+
